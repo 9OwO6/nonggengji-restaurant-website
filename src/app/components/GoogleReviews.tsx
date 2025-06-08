@@ -1,7 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion } from 'framer-motion';
 import Image from 'next/image';
 
 const reviews = [
@@ -32,20 +31,6 @@ const reviews = [
 ];
 
 const GoogleReviews = () => {
-  const [currentReview, setCurrentReview] = useState(0);
-
-  useEffect(() => {
-    const timer = setInterval(() => {
-      setCurrentReview((prev) => (prev + 1) % reviews.length);
-    }, 5000);
-
-    return () => clearInterval(timer);
-  }, []);
-
-  const renderStars = (rating: number) => {
-    return '★'.repeat(rating) + '☆'.repeat(5 - rating);
-  };
-
   return (
     <section className="py-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
