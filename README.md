@@ -27,9 +27,9 @@ This is the English landing page for Nong Geng Ji, a Hunan cuisine restaurant in
    npm install
    ```
 3. Run the development server:
-   ```bash
-   npm run dev
-   ```
+```bash
+npm run dev
+```
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Project Structure
