@@ -33,16 +33,25 @@ const Hero = () => {
           <p className="text-xl sm:text-2xl text-white/90 mb-8 max-w-2xl mx-auto">
             Experience the rich flavors and traditions of Hunan cuisine in the heart of Vancouver
           </p>
-          <motion.a
+          <a
             href="https://nonggengji.ca/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-block bg-red-600 text-white px-8 py-3 rounded-full text-lg font-semibold hover:bg-red-700 transition-colors"
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
+            className="inline-flex items-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-red-700 transition-colors duration-200"
           >
             Order Now
-          </motion.a>
+            <svg
+              className="ml-2 -mr-1 w-5 h-5"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M13 7l5 5m0 0l-5 5m5-5H6"
+              />
+            </svg>
+          </a>
         </motion.div>
       </div>
     </div>
