@@ -13,7 +13,7 @@ const Media = () => {
             viewport={{ once: true }}
             className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4"
           >
-            Restaurant Tour
+            Our Journey
           </motion.h2>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -22,8 +22,7 @@ const Media = () => {
             transition={{ delay: 0.2 }}
             className="text-lg text-gray-600 max-w-3xl mx-auto"
           >
-            Take a virtual tour of our restaurant and experience the warm atmosphere
-            and authentic Hunan dining environment.
+            Experience the rich heritage of Hunan cuisine through our eyes. From traditional recipes passed down through generations to our modern interpretation in Vancouver, discover the story behind every dish we serve.
           </motion.p>
         </div>
 
