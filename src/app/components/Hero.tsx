@@ -11,23 +11,18 @@ const Hero = () => {
   const { scrollY } = useScroll();
   const y = useTransform(scrollY, [0, 1000], [0, -100]);
 
-  // 简化的轮播背景图片
+  // Hero background carousel (venue photography only; food shots live in menu sections)
   const backgroundImages = [
     {
       url: '/images/hero-bg.jpg',
-      title: '经典湘味',
-      subtitle: '传承千年的味道'
+      title: 'Restaurant hero exterior & ambiance',
+      subtitle: '',
     },
     {
-      url: '/images/resturant-interior.jpg', 
-      title: '典雅环境',
-      subtitle: '舒适的用餐空间'
+      url: '/images/resturant-interior.jpg',
+      title: 'Restaurant interior',
+      subtitle: '',
     },
-    {
-      url: '/images/dish-1.png',
-      title: '精致美食',
-      subtitle: '每一道都是艺术品'
-    }
   ];
 
   useEffect(() => {
