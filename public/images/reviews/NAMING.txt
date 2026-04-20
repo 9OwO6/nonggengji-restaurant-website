@@ -1,0 +1,3 @@
+Customer review screenshots referenced from src/data/customer-reviews.json (photoThumbs).
+
+Suggested filenames: en-001-1.jpg, zh-007-2.jpg (match review id + sequence).

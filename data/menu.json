@@ -1,0 +1,1052 @@
+{
+  "menu": [
+    {
+      "category": "Special Offers & New Dishes",
+      "category_cn": "特价优惠与新品",
+      "items": [
+        {
+          "id": "walnut_bun",
+          "name_en": "Walnut Bun (5 Pcs)",
+          "name_cn": "核桃包",
+          "price": 8.99,
+          "spicy_level": 0,
+          "description_en": "Non Spicy. Allergy: Eggs.",
+          "description_cn": "不辣。过敏原：鸡蛋。",
+          "image": "/menu/Combo/htb.jpg"
+        },
+        {
+          "id": "shumai",
+          "name_en": "Glutinous Rice Shumai (6Pcs)",
+          "name_cn": "糯米烧卖（6个）",
+          "price": 7.99,
+          "spicy_level": 0,
+          "description_en": "Non Spicy.",
+          "description_cn": "不辣。",
+          "image": "/menu/Combo/nmsm.jpg"
+        },
+        {
+          "id": "laba_eggs",
+          "name_en": "Stir-Fried Eggs with Laba Beans",
+          "name_cn": "腊八豆炒蛋",
+          "price": 18.99,
+          "spicy_level": 1,
+          "description_en": "Mild Spicy. Can be prepared non-spicy. Allergy: Eggs.",
+          "description_cn": "小辣。可做不辣。过敏原：鸡蛋。",
+          "image": "/menu/Combo/lbdcjd.jpg"
+        },
+        {
+          "id": "monday_special",
+          "name_en": "Monday SP: Dry Pot Sauerkraut with Pork Intestines",
+          "name_cn": "周一特价：干锅酸菜肥肠",
+          "price": 25.99,
+          "spicy_level": 2,
+          "description_en": "Chewy pork intestines with tangy Hunan sauerkraut.",
+          "description_cn": "肥肠Q弹有嚼劲，酸菜酸爽开胃。",
+          "image": "/menu/Combo/ggscfc.jpg"
+        },
+        {
+          "id": "tuesday_special",
+          "name_en": "Tuesday SP: Old Tofu with Minced Meat",
+          "name_cn": "周二特价：肉末豆腐",
+          "price": 19.99,
+          "spicy_level": 0,
+          "description_en": "Slow-cooked in rich broth with savory minced meat.",
+          "description_cn": "高汤炖煮，豆味香浓。",
+          "image": "/menu/Combo/rtldf.jpg"
+        },
+        {
+          "id": "wednesday_special",
+          "name_en": "Wednesday SP: Organic Stir-Fried Cauliflower",
+          "name_cn": "周三特价：有机炒花菜",
+          "price": 21.99,
+          "spicy_level": 1,
+          "description_en": "Mild spicy and crisp.",
+          "description_cn": "小辣，口感爽脆。",
+          "image": "/menu/Combo/dwyjhc.jpg"
+        },
+        {
+          "id": "thursday_special",
+          "name_en": "Thursday SP: Braised Pork with Preserved Greens",
+          "name_cn": "周四特价：梅干菜扣肉",
+          "price": 28.99,
+          "spicy_level": 1,
+          "description_en": "Traditional Hunan style, includes 3 lotus leaf buns.",
+          "description_cn": "湖南传统工艺制作，入口即化，含3个荷叶包。",
+          "image": "/menu/Combo/mckr.jpg"
+        },
+        {
+          "id": "friday_special",
+          "name_en": "Friday SP: Stir-Fried Shredded Bamboo Shoots",
+          "name_cn": "周五特价：小炒笋丝",
+          "price": 19.99,
+          "spicy_level": 1,
+          "description_en": "Selected Hunan bamboo shoots. Can be prepared non-spicy.",
+          "description_cn": "湖南精选笋丝，可做不辣。",
+          "image": "/menu/Combo/xcss.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Signatures",
+      "category_cn": "招牌菜",
+      "items": [
+        {
+          "id": "pork_chili",
+          "name_en": "Stir-Fried Pork with Spiral Chili",
+          "name_cn": "螺丝椒炒肉",
+          "price": 26.99,
+          "spicy_level": 1,
+          "is_signature": true,
+          "description_en": "Adding sea cucumber makes it even more aromatic and perfect with rice.",
+          "description_cn": "加海参更香更下饭。",
+          "image": "/menu/Signatures/ljcr.jpg"
+        },
+        {
+          "id": "signature_beef",
+          "name_en": "Signature Stir-Fried Beef",
+          "name_cn": "招牌牛肉",
+          "price": 28.99,
+          "spicy_level": 3,
+          "is_signature": true,
+          "description_en": "Explosive wok aroma, fresh, savory, and spicy. Can be prepared non-spicy.",
+          "description_cn": "爆炒锅气足，鲜香辣。可走辣。",
+          "image": "/menu/Signatures/zpcnr.jpg"
+        },
+        {
+          "id": "spicy_chicken",
+          "name_en": "Hunan Spicy Chicken",
+          "name_cn": "湖南辣子鸡",
+          "price": 35.99,
+          "spicy_level": 1,
+          "description_en": "Mild spicy.",
+          "description_cn": "微辣。",
+          "image": "/menu/Signatures/lzj.jpg"
+        },
+        {
+          "id": "fish_chili",
+          "name_en": "Stir-Fried Fish with Fresh Chilies",
+          "name_cn": "鲜椒炒鱼片",
+          "price": 34.99,
+          "spicy_level": 3,
+          "description_en": "Boneless fish slices with a springy texture. Can be prepared non-spicy.",
+          "description_cn": "湖蝶鱼无刺，Q弹。可走辣。",
+          "image": "/menu/Signatures/xjhdy.jpg"
+        },
+        {
+          "id": "mapo_tofu_sea_cucumber",
+          "name_en": "Mapo Tofu with Sea Cucumber",
+          "name_cn": "海参麻婆豆腐",
+          "price": 25.99,
+          "spicy_level": 2,
+          "is_signature": true,
+          "description_en": "Tender sea cucumber with silky tofu in a rich and aromatic sauce.",
+          "description_cn": "精选海参与嫩豆腐同煮，酱香浓郁，麻辣鲜香。",
+          "image": "/menu/Signatures/mpdf.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Non-Spicy",
+      "category_cn": "不辣精选",
+      "items": [
+        {
+          "id": "garlic_shrimp",
+          "name_en": "Shrimps with Minced Garlic",
+          "name_cn": "蒜蓉虾",
+          "price": 27.99,
+          "spicy_level": 0,
+          "is_signature": true,
+          "description_en": "Non Spicy.",
+          "description_cn": "不辣。",
+          "image": "/menu/Non-Spicy Dishes/srxr.jpg"
+        },
+        {
+          "id": "tofu_meat",
+          "name_en": "Old Tofu in Meat Broth",
+          "name_cn": "砂锅肉末豆腐",
+          "price": 19.99,
+          "spicy_level": 0,
+          "is_signature": true,
+          "description_en": "Non Spicy.",
+          "description_cn": "不辣。",
+          "image": "/menu/Non-Spicy Dishes/rtldf.jpg"
+        },
+        {
+          "id": "sweet_sour_chicken",
+          "name_en": "Pineapple Sweet and Sour Chicken",
+          "name_cn": "菠萝咕噜鸡",
+          "price": 23.99,
+          "spicy_level": 0,
+          "description_en": "Non Spicy.",
+          "description_cn": "不辣。",
+          "image": "/menu/Non-Spicy Dishes/flglj.jpg"
+        },
+        {
+          "id": "pork_ribs_pickled_greens",
+          "name_en": "Pork Ribs with Pickled Greens",
+          "name_cn": "酸菜排骨",
+          "price": 26.99,
+          "spicy_level": 0,
+          "description_en": "Non Spicy. Bone-in.",
+          "description_cn": "不辣。带骨。",
+          "image": "/menu/Non-Spicy Dishes/lcpg.jpg"
+        },
+        {
+          "id": "braised_pork_tripe_mushrooms",
+          "name_en": "Braised Pork Tripe with Mixed Mushrooms",
+          "name_cn": "杂菌焖猪肚",
+          "price": 27.99,
+          "spicy_level": 0,
+          "description_en": "Non Spicy.",
+          "description_cn": "不辣。",
+          "image": "/menu/Non-Spicy Dishes/zdzjb.jpg"
+        },
+        {
+          "id": "casserole_beef_brisket",
+          "name_en": "Casserole Beef Brisket",
+          "name_cn": "砂锅牛腩煲",
+          "price": 32.99,
+          "spicy_level": 0,
+          "description_en": "Tender beef brisket stewed with white radish in rich broth.",
+          "description_cn": "精选牛腩与白萝卜慢炖入味，汤浓味醇。",
+          "image": "/menu/Non-Spicy Dishes/sgnn.jpg"
+        },
+        {
+          "id": "claypot_lamb_stew",
+          "name_en": "Claypot Nourishing Lamb Stew",
+          "name_cn": "滋补羊肉煲",
+          "price": 48.99,
+          "spicy_level": 0,
+          "description_en": "Non Spicy.",
+          "description_cn": "不辣。",
+          "image": "/menu/Non-Spicy Dishes/sgdpyr.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Suitable for All Ages",
+      "category_cn": "老少皆宜",
+      "items": [
+        {
+          "id": "braised_pork_preserved_greens",
+          "name_en": "Braised Pork with Preserved Greens",
+          "name_cn": "梅干菜扣肉",
+          "price": 28.99,
+          "spicy_level": 1,
+          "is_signature": true,
+          "description_en": "Made with traditional Hunan craftsmanship, melts in your mouth. Includes 3 lotus leaf buns.",
+          "description_cn": "湖南传统工艺制作，入口即化。含3个荷叶包。",
+          "image": "/menu/Suitable for All Ages/mckr.jpg"
+        },
+        {
+          "id": "stir_fried_cured_meat_garlic_sprouts",
+          "name_en": "Stir Fried Cured Meat with Garlic Sprouts",
+          "name_cn": "蒜苔炒腊肉",
+          "price": 29.99,
+          "spicy_level": 1,
+          "is_signature": true,
+          "description_en": "Traditional Hunan smoked cured pork. Mild spicy.",
+          "description_cn": "湖南传统工艺熏制腊肉，小辣。",
+          "image": "/menu/Suitable for All Ages/smlr.jpg"
+        },
+        {
+          "id": "stir_fried_chicken_camilia_oil",
+          "name_en": "Stir-Fried Chicken with Camilia Oil",
+          "name_cn": "茶油炒鸡",
+          "price": 32.99,
+          "spicy_level": 2,
+          "description_en": "Spicy. Bone-in. Can be prepared non-spicy.",
+          "description_cn": "辣，带骨。可走辣。",
+          "image": "/menu/Suitable for All Ages/cyzdj.jpg"
+        },
+        {
+          "id": "steamed_fish_head_chopped_peppers",
+          "name_en": "Steamed Fish Head with Chopped Peppers",
+          "name_cn": "剁椒鱼头",
+          "price": 48.99,
+          "spicy_level": 2,
+          "description_en": "Includes Hunan noodles. Spicy. Bone-in.",
+          "description_cn": "含湖南米粉，辣，带骨。",
+          "image": "/menu/Suitable for All Ages/djyt.jpg"
+        },
+        {
+          "id": "stir_fried_shredded_bamboo_shoots",
+          "name_en": "Stir-Fried Shredded Bamboo Shoots",
+          "name_cn": "小炒笋丝",
+          "price": 19.99,
+          "spicy_level": 1,
+          "description_en": "Selected Hunan bamboo shoots. Mild spicy. Can be prepared non-spicy.",
+          "description_cn": "湖南精选笋丝，小辣。可走辣。",
+          "image": "/menu/Suitable for All Ages/xcss.jpg"
+        },
+        {
+          "id": "stir_fried_eggs_green_peppers",
+          "name_en": "Stir-Fried Eggs with Green Peppers",
+          "name_cn": "青椒炒鸡蛋",
+          "price": 19.99,
+          "spicy_level": 1,
+          "description_en": "Golden eggs stir-fried with green peppers. Mild spicy. Allergy: Eggs.",
+          "description_cn": "金黄鸡蛋与青椒同炒，鲜香下饭。小辣。过敏原：鸡蛋。",
+          "image": "/menu/Suitable for All Ages/jqd.jpg"
+        },
+        {
+          "id": "stir_fried_pork_celery_dried_tofu",
+          "name_en": "Stir-Fried Pork with Celery and Dried Tofu",
+          "name_cn": "香干芹菜炒肉",
+          "price": 18.99,
+          "spicy_level": 2,
+          "description_en": "Spicy. Can be prepared non-spicy.",
+          "description_cn": "辣，可走辣。",
+          "image": "/menu/Suitable for All Ages/qcxg.jpg"
+        },
+        {
+          "id": "stir_fried_beef_tripes_sour_radish",
+          "name_en": "Stir-Fried Beef Tripes with Sour Radish",
+          "name_cn": "酸萝卜炒牛百叶",
+          "price": 24.99,
+          "spicy_level": 2,
+          "description_en": "Spicy.",
+          "description_cn": "辣。",
+          "image": "/menu/Suitable for All Ages/slbcnd.jpg"
+        },
+        {
+          "id": "steamed_cured_meat_fermented_black_beans",
+          "name_en": "Steamed Cured Meat with Fermented Black Beans",
+          "name_cn": "豆豉蒸腊肉",
+          "price": 30.99,
+          "spicy_level": 1,
+          "description_en": "Mild spicy.",
+          "description_cn": "小辣。",
+          "image": "/menu/Suitable for All Ages/dczlw.jpg"
+        },
+        {
+          "id": "sour_spicy_chicken_gizzards",
+          "name_en": "Sour and Spicy Chicken Gizzards",
+          "name_cn": "酸辣鸡胗",
+          "price": 22.99,
+          "spicy_level": 2,
+          "description_en": "Spicy.",
+          "description_cn": "辣。",
+          "image": "/menu/Suitable for All Ages/sljz.png"
+        },
+        {
+          "id": "mixed_grain_steamed_pork_ribs",
+          "name_en": "Mixed Grain Steamed Pork Ribs",
+          "name_cn": "杂粮蒸排骨",
+          "price": 26.99,
+          "spicy_level": 1,
+          "description_en": "Mild spicy. Bone-in.",
+          "description_cn": "小辣，带骨。",
+          "image": "/menu/Suitable for All Ages/fzpg.jpg"
+        },
+        {
+          "id": "dry_pot_sauerkraut_pork_intestines",
+          "name_en": "Dry Pot Sauerkraut with Pork Intestines",
+          "name_cn": "干锅酸菜肥肠",
+          "price": 25.99,
+          "spicy_level": 2,
+          "description_en": "Chewy pork intestines with tangy sauerkraut. Spicy.",
+          "description_cn": "肥肠Q弹有嚼劲，酸菜酸爽开胃，辣。",
+          "image": "/menu/Suitable for All Ages/ggscfc.jpg"
+        },
+        {
+          "id": "spicy_garlic_chicken_feet",
+          "name_en": "Spicy Garlic Chicken Feet",
+          "name_cn": "蒜香辣鸡爪",
+          "price": 26.99,
+          "spicy_level": 2,
+          "description_en": "Spicy. Bone-in.",
+          "description_cn": "辣，带骨。",
+          "image": "/menu/Suitable for All Ages/hpfz.jpg"
+        },
+        {
+          "id": "pork_trotters_braised_preserved_vegetables",
+          "name_en": "Pork Trotters Braised with Preserved Vegetables",
+          "name_cn": "梅干菜焖猪蹄",
+          "price": 29.99,
+          "spicy_level": 1,
+          "description_en": "Mild spicy. Bone-in.",
+          "description_cn": "微辣，带骨。",
+          "image": "/menu/Suitable for All Ages/lcpg.jpg"
+        },
+        {
+          "id": "dry_pot_deer_antler_mushroom",
+          "name_en": "Dry Pot Deer Antler Mushroom",
+          "name_cn": "干锅鹿茸菌",
+          "price": 24.99,
+          "spicy_level": 1,
+          "description_en": "Mild spicy.",
+          "description_cn": "小辣。",
+          "image": "/menu/Suitable for All Ages/gglrj.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Specials / Seafood",
+      "category_cn": "特色海鲜",
+      "items": [
+        {
+          "id": "pressure_cooked_chicken",
+          "name_en": "Pressure-Cooked Chicken",
+          "name_cn": "传统压锅鸡",
+          "price": 48.99,
+          "spicy_level": 1,
+          "is_signature": true,
+          "description_en": "Whole chicken cooked in a traditional pressure pot. Est wait time: 30 minutes. Bone-in.",
+          "description_cn": "整鸡传统压锅烹制，香气浓郁，肉质鲜嫩多汁。等候约30分钟，带骨。",
+          "image": "/menu/Specials/ygj.jpg"
+        },
+        {
+          "id": "sour_spicy_chilies_abalone",
+          "name_en": "Stir Fried Sour and Spicy Chilies Abalone",
+          "name_cn": "酸辣椒炒鲍鱼",
+          "price": 36.99,
+          "spicy_level": 2,
+          "description_en": "Special sour-spicy chilies, super appetizing with rice.",
+          "description_cn": "特制酸辣椒，超级下饭。",
+          "image": "/menu/Specials/sljcby.jpg"
+        },
+        {
+          "id": "claypot_lamb_with_skin",
+          "name_en": "Claypot Lamb with Skin",
+          "name_cn": "带皮羊肉煲",
+          "price": 48.99,
+          "spicy_level": 1,
+          "description_en": "Mild spicy.",
+          "description_cn": "微辣。",
+          "image": "/menu/Specials/dpyr.jpg"
+        },
+        {
+          "id": "braised_fish_head_green_pepper_perilla",
+          "name_en": "Braised Fish Head with Green Pepper and Perilla",
+          "name_cn": "青椒紫苏焖鱼头",
+          "price": 46.99,
+          "spicy_level": 1,
+          "is_signature": true,
+          "description_en": "Fragrant fish head simmered with fresh perilla leaves. Est wait time: 30 minutes. Bone-in.",
+          "description_cn": "以紫苏叶慢煮鱼头，汤汁鲜香浓郁，清爽开胃又滋补。等候约30分钟，带骨。",
+          "image": "/menu/Specials/zsyt.jpg"
+        },
+        {
+          "id": "stewed_soft_shelled_turtle",
+          "name_en": "Stewed Soft-Shelled Turtle",
+          "name_cn": "红焖甲鱼",
+          "price": 148.99,
+          "spicy_level": 2,
+          "description_en": "A signature Hunan delicacy for distinguished guests. Est wait time: 30 minutes. Bone-in.",
+          "description_cn": "湖南待客硬菜，招待贵宾首选。等候约30分钟，带骨。",
+          "image": "/menu/Specials/jy.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Cold Dish / Staples / Snacks",
+      "category_cn": "凉菜 / 主食 / 小吃",
+      "items": [
+        {
+          "id": "green_peppers_preserved_eggs",
+          "name_en": "Green Peppers with Preserved Eggs",
+          "name_cn": "青椒擂皮蛋",
+          "price": 12.99,
+          "spicy_level": 2,
+          "description_en": "Spicy. Allergy: Eggs.",
+          "description_cn": "辣。过敏原：鸡蛋。",
+          "image": "/menu/Cold Dish/ljpd.jpg"
+        },
+        {
+          "id": "hunan_stinky_tofu",
+          "name_en": "Hunan Stinky Tofu",
+          "name_cn": "湖南臭豆腐",
+          "price": 9.99,
+          "spicy_level": 1,
+          "description_en": "Mild spicy.",
+          "description_cn": "小辣。",
+          "image": "/menu/Cold Dish/cdf.jpg"
+        },
+        {
+          "id": "sweet_potato_rice_pressure_cooker",
+          "name_en": "Sweet Potato Rice in Pressure Cooker",
+          "name_cn": "红薯焖饭",
+          "price": 10.99,
+          "spicy_level": 0,
+          "description_en": "3-4 bowls.",
+          "description_cn": "约 3-4 碗。",
+          "image": "/menu/Cold Dish/hsmf.jpg"
+        },
+        {
+          "id": "white_rice_cold_dish",
+          "name_en": "White Rice",
+          "name_cn": "米饭",
+          "price": 2.5,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Cold Dish/mf.jpg"
+        },
+        {
+          "id": "noodles_minced_meat_cold_dish",
+          "name_en": "Noodles with Minced Meat",
+          "name_cn": "肉末面",
+          "price": 15.99,
+          "spicy_level": 0,
+          "description_en": "Non spicy. Allergy: Eggs.",
+          "description_cn": "不辣。过敏原：鸡蛋。",
+          "image": "/menu/Cold Dish/rmmx.jpg"
+        },
+        {
+          "id": "shrimp_pineapple_fried_rice",
+          "name_en": "Shrimp & Pineapple Fried Rice",
+          "name_cn": "虾仁菠萝炒饭",
+          "price": 17.99,
+          "spicy_level": 1,
+          "description_en": "Mild spicy. Allergy: Eggs.",
+          "description_cn": "微辣。过敏原：鸡蛋。",
+          "image": "/menu/Cold Dish/flxrcf.jpg"
+        },
+        {
+          "id": "hunan_soy_sauce_fried_rice",
+          "name_en": "Hunan Soy Sauce Fried Rice",
+          "name_cn": "酱油炒饭",
+          "price": 13.99,
+          "spicy_level": 0,
+          "description_en": "Non spicy. Allergy: Eggs.",
+          "description_cn": "不辣。过敏原：鸡蛋。",
+          "image": "/menu/Cold Dish/jycf.jpg"
+        },
+        {
+          "id": "spicy_pickled_lemon_chicken_feet",
+          "name_en": "Spicy Pickled Lemon Chicken Feet",
+          "name_cn": "柠檬泡椒鸡爪",
+          "price": 10.99,
+          "spicy_level": 2,
+          "description_en": "Spicy. Bone-in.",
+          "description_cn": "辣。带骨。",
+          "image": "/menu/Cold Dish/lbjz.jpg"
+        },
+        {
+          "id": "chilled_beancurd_skin_cucumbers",
+          "name_en": "Chilled Beancurd Skin with Cucumbers",
+          "name_cn": "黄瓜拌腐竹",
+          "price": 10.99,
+          "spicy_level": 1,
+          "description_en": "Mild spicy.",
+          "description_cn": "微辣。",
+          "image": "/menu/Cold Dish/fphg.jpg"
+        },
+        {
+          "id": "chilled_marinated_beef",
+          "name_en": "Chilled Marinated Beef",
+          "name_cn": "凉拌卤牛肉",
+          "price": 18.99,
+          "spicy_level": 2,
+          "description_en": "Spicy.",
+          "description_cn": "辣。",
+          "image": "/menu/Cold Dish/lblnr.jpg"
+        },
+        {
+          "id": "vinegar_marinated_peanuts",
+          "name_en": "Vinegar-Marinated Peanuts",
+          "name_cn": "陈醋花生",
+          "price": 8.99,
+          "spicy_level": 0,
+          "description_en": "Non spicy.",
+          "description_cn": "不辣。",
+          "image": "/menu/Cold Dish/cphs.jpg"
+        },
+        {
+          "id": "original_lotus_leaf_bun",
+          "name_en": "Original Lotus Leaf Bun (5pcs)",
+          "name_cn": "原味荷叶包（5个）",
+          "price": 7.5,
+          "spicy_level": 0,
+          "description_en": "Non spicy.",
+          "description_cn": "不辣。",
+          "image": "/menu/Cold Dish/ywhyb.png"
+        },
+        {
+          "id": "sweet_rice_dumplings",
+          "name_en": "Sweet Rice Dumplings",
+          "name_cn": "酒酿汤圆",
+          "price": 3.99,
+          "spicy_level": 0,
+          "description_en": "Allergy: Eggs.",
+          "description_cn": "过敏原：鸡蛋。",
+          "image": "/menu/Cold Dish/jnty.jpg"
+        },
+        {
+          "id": "brown_sugar_ice_jelly",
+          "name_en": "Brown Sugar Ice Jelly",
+          "name_cn": "冰粉",
+          "price": 3.99,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Cold Dish/bf.jpg"
+        },
+        {
+          "id": "kids_special_snack_platter",
+          "name_en": "Kids' Special Snack Platter",
+          "name_cn": "儿童特选拼盘",
+          "price": 15.99,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Cold Dish/xc.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Soup / Vegetables",
+      "category_cn": "汤品 / 时蔬",
+      "items": [
+        {
+          "id": "stir_fried_cauliflower",
+          "name_en": "Stir-Fried Cauliflower",
+          "name_cn": "炒有机花菜",
+          "price": 21.99,
+          "spicy_level": 1,
+          "description_en": "Mild spicy. Can be prepared non-spicy.",
+          "description_cn": "小辣。可走辣。",
+          "image": "/menu/Soup/dwyjhc.jpg"
+        },
+        {
+          "id": "lotus_roots_pork_ribs_soup",
+          "name_en": "Lotus Roots with Pork Ribs Soup",
+          "name_cn": "莲藕排骨汤",
+          "price": 25.99,
+          "spicy_level": 0,
+          "description_en": "Non spicy. Allergy: Peanuts. Bone-in.",
+          "description_cn": "不辣。过敏原：花生。带骨。",
+          "image": "/menu/Soup/lopgt.jpg"
+        },
+        {
+          "id": "stir_fried_green_beans_pickled_vegetables",
+          "name_en": "Stir-Fried Green Beans with Pickled Vegetables",
+          "name_cn": "芽菜四季豆",
+          "price": 21.99,
+          "spicy_level": 1,
+          "description_en": "Mild spicy.",
+          "description_cn": "小辣。",
+          "image": "/menu/Soup/ycsjd.jpg"
+        },
+        {
+          "id": "seafood_stewed_old_hen_soup",
+          "name_en": "Seafood Stewed with Old Hen Soup",
+          "name_cn": "海鲜老母鸡汤",
+          "price": 58.99,
+          "spicy_level": 0,
+          "description_en": "Non spicy. Allergy: Peanuts. Bone-in.",
+          "description_cn": "不辣。过敏原：花生。带骨。",
+          "image": "/menu/Soup/hxlmjt.jpg"
+        },
+        {
+          "id": "abalone_matsutake_chicken_soup",
+          "name_en": "Abalone & Matsutake Chicken Soup (Pax)",
+          "name_cn": "鲍鱼松茸鸡汤（位）",
+          "price": 10.99,
+          "spicy_level": 0,
+          "description_en": "Includes pork ribs and pork tripe. Bone-in.",
+          "description_cn": "含排骨和猪肚。带骨。",
+          "image": "/menu/Soup/bylmjt.jpg"
+        },
+        {
+          "id": "stir_fried_carp_fish_romaine",
+          "name_en": "Stir-Fried Carp Fish with Romaine Lettuce",
+          "name_cn": "油麦菜炒鲤鱼",
+          "price": 18.99,
+          "spicy_level": 0,
+          "description_en": "Non spicy. May contain bones.",
+          "description_cn": "不辣。可能含有骨头。",
+          "image": "/menu/Soup/lyymc.jpg"
+        },
+        {
+          "id": "dry_pot_shredded_cabbage",
+          "name_en": "Dry Pot Shredded Cabbage",
+          "name_cn": "干锅手撕包菜",
+          "price": 16.99,
+          "spicy_level": 1,
+          "description_en": "Mild spicy. Can be prepared non-spicy.",
+          "description_cn": "小辣。可走辣。",
+          "image": "/menu/Soup/ggssbc.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Beverages",
+      "category_cn": "饮料",
+      "items": [
+        {
+          "id": "lemon_tea",
+          "name_en": "Signature Lemon Tea",
+          "name_cn": "招牌柠檬茶",
+          "price": 4.9,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Beverages/nmc.jpg"
+        },
+        {
+          "id": "majestic_jade_tangerine",
+          "name_en": "Majestic Jade Tangerine",
+          "name_cn": "玉柑饮",
+          "price": 4.9,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Beverages/yyg.jpg"
+        },
+        {
+          "id": "brown_sugar_winter_melon_tea",
+          "name_en": "Brown Sugar Winter Melon Tea",
+          "name_cn": "黑糖冬瓜茶",
+          "price": 5.99,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Beverages/htdgc.jpg"
+        },
+        {
+          "id": "water_chestnut_coconut_water",
+          "name_en": "Water Chestnut and Coconut Water",
+          "name_cn": "马蹄椰子水",
+          "price": 6.99,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Beverages/mtyzs.jpg"
+        },
+        {
+          "id": "arctic_ocean_mandarin_orange_330",
+          "name_en": "Arctic Ocean Mandarin Orange 330ml",
+          "name_cn": "北冰洋橘子味 330ml",
+          "price": 4.5,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Beverages/bby.jpg"
+        },
+        {
+          "id": "bottle_water_500",
+          "name_en": "Bottle Water 500ml",
+          "name_cn": "矿泉水 500ml",
+          "price": 1.99,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Beverages/kqs.jpg"
+        },
+        {
+          "id": "cola",
+          "name_en": "Coke 355ml",
+          "name_cn": "可乐 355ml",
+          "price": 2.5,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Beverages/kl.jpg"
+        },
+        {
+          "id": "coke_zero_355",
+          "name_en": "Coke Zero 355ml",
+          "name_cn": "无糖可乐 355ml",
+          "price": 2.5,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Beverages/wtkl.jpg"
+        },
+        {
+          "id": "jia_duo_bao_310",
+          "name_en": "Jia Duo Bao 310ml",
+          "name_cn": "加多宝 310ml",
+          "price": 3.5,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Beverages/jdb.jpg"
+        },
+        {
+          "id": "master_kang_ice_black_tea_500",
+          "name_en": "Master Kang Ice Black Tea 500ml",
+          "name_cn": "康师傅冰红茶 500ml",
+          "price": 3.99,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Beverages/bhc.jpg"
+        },
+        {
+          "id": "yibao_sour_plum_450",
+          "name_en": "Yibao Sour Plum 450ml",
+          "name_cn": "怡宝酸梅汤 450ml",
+          "price": 3.99,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Beverages/smt.jpg"
+        },
+        {
+          "id": "master_kang_rock_sugar_snow_pear_500",
+          "name_en": "Master Kang Rock Sugar Snow Pear 500ml",
+          "name_cn": "康师傅冰糖雪梨 500ml",
+          "price": 3.99,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Beverages/btxl.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Alcoholic Choices",
+      "category_cn": "酒水",
+      "items": [
+        {
+          "id": "house_lager_16oz",
+          "name_en": "House Lager 5% 16oz",
+          "name_cn": "招牌拉格 5% 16oz",
+          "price": 7.99,
+          "spicy_level": 0,
+          "description_en": "Pure malt aroma, small-batch fresh brewing. Contains gluten.",
+          "description_cn": "純麥香，小批量新鮮釀造。含麩質。",
+          "image": "/menu/Alcoholic/dp.jpg"
+        },
+        {
+          "id": "taylight_ipa_16oz",
+          "name_en": "Taylight IPA 5% 16oz",
+          "price": 7.99,
+          "spicy_level": 0,
+          "description_en": "Juicy citrus and tropical aroma. Contains gluten.",
+          "description_cn": "柑橘、鳳梨、芒果、百香果香氣。含麩質。",
+          "image": "/menu/Alcoholic/ipa.jpg"
+        },
+        {
+          "id": "seasonal_tap_16oz",
+          "name_en": "Seasonal Tap 4.5%-6% 16oz",
+          "name_cn": "季节限定生啤 4.5%-6% 16oz",
+          "price": 7.99,
+          "spicy_level": 0,
+          "description_en": "Cherry blossom and yuzu notes in a light-bodied ale.",
+          "description_cn": "樱花与柚子香气，口感轻盈。含麩質。",
+          "image": "/menu/Alcoholic/jjxd.jpg"
+        },
+        {
+          "id": "jiangxiaobai_baijiu_50",
+          "name_en": "Jiangxiaobai Baijiu 50ml",
+          "name_cn": "江小白白酒 50ml",
+          "price": 7.99,
+          "spicy_level": 0,
+          "description_en": "Smooth sorghum spirit, light and easy to drink.",
+          "description_cn": "清爽顺口，高粱酿造。",
+          "image": "/menu/Alcoholic/jxb.jpg"
+        },
+        {
+          "id": "erguotou_baijiu_100",
+          "name_en": "Erguotou Bajiu 100ml",
+          "name_cn": "二锅头白酒 100ml",
+          "price": 8.99,
+          "spicy_level": 0,
+          "description_en": "Classic strong Chinese liquor with a bold aroma.",
+          "description_cn": "经典浓烈，酒香醇厚。",
+          "image": "/menu/Alcoholic/nlg.jpg"
+        },
+        {
+          "id": "tsingtao_beer_330",
+          "name_en": "Tsingtao Beer Bottle 330ml",
+          "name_cn": "青岛啤酒 330ml",
+          "price": 5.99,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Alcoholic/qd.jpg"
+        },
+        {
+          "id": "asahi_beer_2l",
+          "name_en": "Asahi Beer 2L",
+          "name_cn": "朝日啤酒 2L",
+          "price": 36.99,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Alcoholic/asg.jpg"
+        },
+        {
+          "id": "oyster_bay_merlot_2023",
+          "name_en": "Oyster Bay Merlot 2023 750ml",
+          "name_cn": "蚝湾梅洛红葡萄酒 2023 750ml",
+          "price": 58.99,
+          "spicy_level": 0,
+          "description_en": "Fruit-forward Merlot with soft tannins.",
+          "description_cn": "果香柔顺，单宁细腻，适合湘菜。",
+          "image": "/menu/Alcoholic/ob.jpg"
+        },
+        {
+          "id": "phantom_creek_becker_2019",
+          "name_en": "Phantom Creek Becker Vineyard 2019 750ml",
+          "name_cn": "Phantom Creek Becker 2019 750ml",
+          "price": 108.99,
+          "spicy_level": 0,
+          "description_en": "Structured premium wine with depth and elegance.",
+          "description_cn": "结构感强、层次丰富，适合醇厚湘菜。",
+          "image": "/menu/Alcoholic/pcbv.jpg"
+        },
+        {
+          "id": "mouton_cadet_sauvignon_blanc_2023",
+          "name_en": "Mouton Cadet Sauvignon Blanc 2023 750ml",
+          "name_cn": "木桐嘉棣长相思 2023 750ml",
+          "price": 48.99,
+          "spicy_level": 0,
+          "description_en": "Fresh citrus and mineral notes, elegant finish.",
+          "description_cn": "清新优雅，带矿物感与柑橘香。",
+          "image": "/menu/Alcoholic/mcsb.jpg"
+        },
+        {
+          "id": "oyster_bay_sauvignon_blanc_2024",
+          "name_en": "Oyster Bay Sauvignon Blanc 2024 750ml",
+          "name_cn": "蚝湾长相思 2024 750ml",
+          "price": 48.99,
+          "spicy_level": 0,
+          "description_en": "Refreshing and appetite-opening with bright acidity.",
+          "description_cn": "清爽开胃，适合微辣酸香菜品。",
+          "image": "/menu/Alcoholic/obsb.jpg"
+        },
+        {
+          "id": "oyster_bay_chardonnay_2023",
+          "name_en": "Oyster Bay Chardonnay 2023 750ml",
+          "name_cn": "蚝湾霞多丽 2023 750ml",
+          "price": 55.99,
+          "spicy_level": 0,
+          "description_en": "Smooth Chardonnay with ripe fruit and gentle oak.",
+          "description_cn": "口感圆润顺口，成熟果香与轻柔橡木气息。",
+          "image": "/menu/Alcoholic/obc.jpg"
+        },
+        {
+          "id": "mission_hill_chardonnay_2022",
+          "name_en": "Mission Hill Chardonnay 2022 750ml",
+          "name_cn": "Mission Hill 霞多丽 2022 750ml",
+          "price": 58.99,
+          "spicy_level": 0,
+          "description_en": "Elegant Chardonnay balancing spice and richness.",
+          "description_cn": "果香成熟并带细腻橡木，适合压辣解腻。",
+          "image": "/menu/Alcoholic/mhc.jpg"
+        },
+        {
+          "id": "moet_chandon_imperial_brut",
+          "name_en": "Moët & Chandon Impérial Brut 750ml",
+          "name_cn": "酩悦香槟 750ml",
+          "price": 128.99,
+          "spicy_level": 0,
+          "description_en": "Green apple and citrus with brioche notes.",
+          "description_cn": "青苹果与柑橘香，伴有面包与坚果风味。",
+          "image": "/menu/Alcoholic/mcib.jpg"
+        },
+        {
+          "id": "veuve_clicquot_brut",
+          "name_en": "Veuve Clicquot Brut 750ml",
+          "name_cn": "凯歌香槟 750ml",
+          "price": 128.99,
+          "spicy_level": 0,
+          "description_en": "Crisp apple-citrus profile, rich yet refreshing.",
+          "description_cn": "苹果与柑橘香气，口感醇厚清新。",
+          "image": "/menu/Alcoholic/vcb.jpg"
+        },
+        {
+          "id": "dassai_39_junmai_daiginjo",
+          "name_en": "Dassai 39 Junmai Daiginjo 720 ml",
+          "name_cn": "獭祭39 纯米大吟酿 720ml",
+          "price": 128.99,
+          "spicy_level": 0,
+          "description_en": "Premium sake with elegant aroma and smooth taste.",
+          "description_cn": "高端清酒，香气优雅，口感顺滑。",
+          "image": "/menu/Alcoholic/djd.jpg"
+        },
+        {
+          "id": "kubota_junmai_daiginjo",
+          "name_en": "Kubota Junmai Daiginjo 720 ml",
+          "name_cn": "久保田纯米大吟酿 720ml",
+          "price": 88.99,
+          "spicy_level": 0,
+          "description_en": "Clean and silky palate with refined finish.",
+          "description_cn": "香气细腻，口感清爽顺滑，余味纯净。",
+          "image": "/menu/Alcoholic/kjd.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Mechandise & Packaging",
+      "category_cn": "打包用品",
+      "items": [
+        {
+          "id": "takeout_box_750ml",
+          "name_en": "750ml Takeout Box",
+          "name_cn": "750ml 打包盒",
+          "price": 0.3,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Mechandise/dbh.jpg"
+        },
+        {
+          "id": "cutleries",
+          "name_en": "Cutleries",
+          "name_cn": "餐具",
+          "price": 0,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Mechandise/kz.jpg"
+        },
+        {
+          "id": "non_woven_fabric_bag",
+          "name_en": "Non-Woven Fabric Bag",
+          "name_cn": "无纺布袋",
+          "price": 0.3,
+          "spicy_level": 0,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Mechandise/dbd.jpg"
+        },
+        {
+          "id": "pickled_mustard_greens_chili_oil",
+          "name_en": "Pickled mustard greens with chili oil",
+          "name_cn": "油泼榨菜",
+          "price": 4.49,
+          "spicy_level": 1,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Mechandise/pmg.jpg"
+        },
+        {
+          "id": "ginger_garlic_chili_sauce",
+          "name_en": "Ginger Garlic Chili Sauce",
+          "name_cn": "姜蒜辣椒酱",
+          "price": 4.49,
+          "spicy_level": 2,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Mechandise/ggcs.jpg"
+        },
+        {
+          "id": "garlic_yellow_pepper_sauce",
+          "name_en": "Garlic Yellow Pepper Sauce",
+          "name_cn": "蒜蓉黄椒酱",
+          "price": 4.49,
+          "spicy_level": 2,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Mechandise/gyps.jpg"
+        },
+        {
+          "id": "spicy_black_bean_chili_oil",
+          "name_en": "Spicy black bean chili oil",
+          "name_cn": "豉香辣椒油",
+          "price": 4.49,
+          "spicy_level": 2,
+          "description_en": "",
+          "description_cn": "",
+          "image": "/menu/Mechandise/sbbc.jpg"
+        }
+      ]
+    }
+  ]
+}
