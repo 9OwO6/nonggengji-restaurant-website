@@ -102,6 +102,14 @@ export const translations = {
   'about.features.spice.title': { en: 'Perfect Spice Balance', zh: '完美辣度平衡' },
   'about.features.spice.description': { en: 'Carefully balanced heat levels to suit every palate', zh: '精心平衡的辣度等级，适合各种口味' },
 
+  'about.interior.badge': {
+    en: 'Authentic Hunan ambience',
+    zh: '正宗湘菜环境',
+  },
+  'about.cta.tryDishes': { en: 'Experience our menu', zh: '体验我们的菜品' },
+  'about.stats.years': { en: 'Years of experience', zh: '年经验' },
+  'about.stats.google': { en: 'Google rating', zh: 'Google评分' },
+
   // 菜单亮点
   'menu.highlights.title': { en: 'Featured Dishes', zh: '精选菜品' },
   'menu.highlights.subtitle': { en: 'Discover our most beloved signature dishes, each crafted with authentic Hunan flavors and premium ingredients.', zh: '探索我们最受欢迎的招牌菜品，每道菜都采用正宗湘菜风味和优质食材精心制作。' },

@@ -94,7 +94,7 @@ const About = () => {
                 transition={{ delay: 0.5 }}
                 className="absolute bottom-6 left-6 bg-white/90 backdrop-blur-sm px-4 py-2 rounded-full text-gray-800 font-medium shadow-lg"
               >
-                🏮 正宗湘菜环境
+                🏮 {t('about.interior.badge')}
               </motion.div>
             </div>
             
@@ -163,7 +163,7 @@ const About = () => {
                 className="group inline-flex items-center px-6 py-3 bg-gradient-to-r from-red-600 to-red-700 text-white font-semibold rounded-full hover:from-red-700 hover:to-red-800 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
               >
                 <span className="mr-2">🍽️</span>
-                体验我们的菜品
+                {t('about.cta.tryDishes')}
                 <motion.svg
                   className="ml-2 w-4 h-4"
                   fill="none"
@@ -188,13 +188,13 @@ const About = () => {
         >
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
             {[
-              { value: '10+', label: '年经验', icon: '⏰' },
-              { value: '50+', label: '招牌菜品', icon: '🍜' },
-              { value: '2000+', label: '满意客户', icon: '😊' },
-              { value: '4.8★', label: 'Google评分', icon: '⭐' }
+              { value: '10+', labelKey: 'about.stats.years', icon: '⏰' },
+              { value: '50+', labelKey: 'hero.stats.dishes', icon: '🍜' },
+              { value: '2000+', labelKey: 'hero.stats.customers', icon: '😊' },
+              { value: '4.8★', labelKey: 'about.stats.google', icon: '⭐' },
             ].map((stat, index) => (
               <motion.div
-                key={stat.label}
+                key={stat.labelKey}
                 initial={{ scale: 0 }}
                 whileInView={{ scale: 1 }}
                 viewport={{ once: true }}
@@ -209,7 +209,7 @@ const About = () => {
                   {stat.value}
                 </div>
                 <div className="text-gray-600 font-medium">
-                  {stat.label}
+                  {t(stat.labelKey)}
                 </div>
               </motion.div>
             ))}
