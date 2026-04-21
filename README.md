@@ -43,30 +43,24 @@ What we optimized for:
 
 ## Screenshots 📸
 
-*Add your images under `public/show_case/` (or any path you prefer) and uncomment / replace the lines below.*
-
 <p align="center">
   <strong>Hero & first impression</strong><br/>
-  <!-- <img src="./public/show_case/hero.png" alt="Homepage hero" width="85%" /> -->
-  <br/><sub><em>Placeholder — drop your hero screenshot here</em></sub>
+  <img src="./public/show_case/show_case1.png" alt="Homepage hero" width="85%" />
 </p>
 
 <p align="center">
   <strong>Menu & dishes</strong><br/>
-  <!-- <img src="./public/show_case/menu.png" alt="Menu page" width="85%" /> -->
-  <br/><sub><em>Placeholder — menu grid / dish detail</em></sub>
+  <img src="./public/show_case/show_case6.png" alt="Menu page" width="85%" />
 </p>
 
 <p align="center">
   <strong>Reviews & trust</strong><br/>
-  <!-- <img src="./public/show_case/reviews.png" alt="Reviews section" width="85%" /> -->
-  <br/><sub><em>Placeholder — reviews or About section</em></sub>
+  <img src="./public/show_case/show_case4.png" alt="Reviews and trust section" width="85%" />
 </p>
 
 <p align="center">
-  <strong>Mobile</strong><br/>
-  <!-- <img src="./public/show_case/mobile.png" alt="Mobile view" width="320" /> -->
-  <br/><sub><em>Placeholder — narrow viewport</em></sub>
+  <strong>Waitlist</strong><br/>
+  <img src="./public/show_case/show_case5.png" alt="Waitlist section" width="85%" />
 </p>
 
 ---
